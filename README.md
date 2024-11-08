@@ -11,3 +11,8 @@ There are two features available:
 
 ![UI](https://github.com/JBRonaldHandiwinata/dakon_ai/blob/master/blob/2.png?raw=true)
 
+
+#### Run programm
+```python
+python mancala.py
+```
